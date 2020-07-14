@@ -1,5 +1,7 @@
 # Platforming-Skill-Estimator
 
-A platforming game that dynamically adjusts difficulty on the fly according to your level of skill.
+A platforming game which focuses on the concept of 'adaptive difficulty'.
 
-This project was built in Unity.
+# Details
+
+The game will adjust difficulty on the fly according to the user's skill level. 
